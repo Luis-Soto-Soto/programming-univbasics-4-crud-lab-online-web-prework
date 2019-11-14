@@ -1,8 +1,10 @@
-def create_an_empty_array
+def create_an_empty_array 
+  []
   
 end
 
-def create_an_array
+def create_an_array 
+  ["element_1","element_2","element_3","element_4"]
   
 end
 
