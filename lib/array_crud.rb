@@ -9,7 +9,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  create_an_array.push("element_5")
+  array["sub_1","sub_2"]
+  array.push("sub_3")
   
 end
 
