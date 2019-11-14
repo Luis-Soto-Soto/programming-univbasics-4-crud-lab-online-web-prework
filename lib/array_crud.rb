@@ -8,7 +8,7 @@ def create_an_array
   
 end
 
-def add_element_to_end_of_array(array = ["sub_1","sub_2"], element)
+def add_element_to_end_of_array(array = ["sub_1","sub_2"], "sub_3")
   
   array << "sub_3"
   
